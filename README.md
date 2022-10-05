@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @utkrshkmr
-- 👀 Computer Vision | Deep Learning
-- 🌱 Adverserial models | Computer Stereo Vision
-- 💞️ Vision problems, deep learning projects
-- 📫 utkarshkumar0105@gmail.com
+- 👀 HPC | Multi-Core Programming
+- 🌱 Graph Acceleration
+- 💞️ Parallel algorithms
+- 📫 utkarshk@buffalo.edu
